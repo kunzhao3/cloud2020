@@ -8,11 +8,11 @@ SpringCloud: https://spring.io/projects/spring-cloud/ 这个网址是各springcl
 
 Seata： https://seata.io/zh-cn/docs/overview/what-is-seata.html 分布式事务解决的框架，文档介绍很详细，推荐;
 
-Nacos： https://nacos.io/zh-cn/docs/what-is-nacos.html 替代Eureka和Config;
+Nacos： https://nacos.io/zh-cn/docs/what-is-nacos.html 替代Eureka(服务的注册和发现)和Config(配置文件管理);
 
 Sentinel：[https://github.com/alibaba/Sentinel/wiki/%E4%BB%8B%E7%BB%8D](https://github.com/alibaba/Sentinel/wiki/介绍)
 
-在Hystrix基础上增加了流控规则和持久化,alibaba体系的一员。
+在Hystrix(服务降级，熔断，限流)基础上增加了流控规则和持久化,alibaba体系的一员。
 
 
 
